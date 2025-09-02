@@ -2,7 +2,7 @@
 
 A dynamic image slideshow system designed for professional presentations with a beautiful space-themed interface. Perfect for podcasts, conferences, and live streaming backgrounds.
 
-**🌐 Live Demo:** [https://nehemiahlabs.com/tools/star-slider](https://nehemiahlabs.com/tools/starslider)
+**🌐 Live Demo:** [https://nehemiahlabs.com/tools/starslider](https://nehemiahlabs.com/tools/starslider)
 
 ## 🌟 Features
 
