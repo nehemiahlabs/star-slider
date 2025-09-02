@@ -1,5 +1,9 @@
 # StarSlider
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/nehemiahlabs/star-slider/releases)
+[![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4.svg)](https://www.php.net/)
+
 A dynamic image slideshow system designed for professional presentations with a beautiful space-themed interface. Perfect for podcasts, conferences, and live streaming backgrounds.
 
 **🌐 Live Demo:** [https://nehemiahlabs.com/tools/starslider](https://nehemiahlabs.com/tools/starslider)
@@ -164,7 +168,9 @@ Sessions are configured via `config.json` in each session directory:
 
 ## 📄 License
 
-Copyright © 2025 Nehemiah Labs. All rights reserved.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright © 2025 Nehemiah Labs.
 
 ## 🤝 Support
 
